@@ -1,0 +1,64 @@
+{
+  "musers": [
+    {
+      "name": "Иван",
+      "surname": "Иванов",
+      "patronymic": "Иванович",
+      "type": 0,
+      "number": "+7(921)-321-3214",
+      "email": "IvanovIvan@mail.ru",
+      "birthday": "1999-10-22",
+      "id": 1
+    },
+    {
+      "name": "Петр",
+      "surname": "Петров",
+      "patronymic": "Александрович",
+      "type": 1,
+      "number": "+7(123)-141-4211",
+      "email": "PetrovP@mail.ru",
+      "birthday": "1974-09-01",
+      "id": 2
+    },
+    {
+      "name": "Александра",
+      "surname": "Румянцева",
+      "patronymic": "Сергеевна",
+      "type": 2,
+      "number": "+7(534)-534-3432",
+      "email": "AlexaRum@yandex.ru",
+      "birthday": "1996-11-20",
+      "id": 3
+    },
+    {
+      "name": "Василий",
+      "surname": "Воробьев",
+      "patronymic": "Дмитриевич",
+      "type": 3,
+      "number": "+7(235)-224-2343",
+      "email": "VasyaVorobei@mail.ru",
+      "birthday": "2000-03-29",
+      "id": 4
+    },
+    {
+      "name": "Мария",
+      "surname": "Лукьянчикова",
+      "patronymic": "Алексеевна",
+      "type": 0,
+      "number": "+7(131)-241-2412",
+      "email": "MaryFox@mail.ru",
+      "birthday": "1978-11-21",
+      "id": 5
+    },
+    {
+      "name": "hsbd",
+      "surname": "jlnds",
+      "patronymic": "fknwand",
+      "type": 0,
+      "number": "+7(133)-321-3214",
+      "email": "sdkjn@ewasds",
+      "birthday": "1995-03-26",
+      "id": 6
+    }
+  ]
+}
